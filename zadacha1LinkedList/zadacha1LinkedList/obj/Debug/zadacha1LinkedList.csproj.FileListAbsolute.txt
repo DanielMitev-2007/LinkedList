@@ -1,0 +1,7 @@
+C:\Users\HOME\source\repos\zadacha1LinkedList\zadacha1LinkedList\bin\Debug\zadacha1LinkedList.exe.config
+C:\Users\HOME\source\repos\zadacha1LinkedList\zadacha1LinkedList\bin\Debug\zadacha1LinkedList.exe
+C:\Users\HOME\source\repos\zadacha1LinkedList\zadacha1LinkedList\bin\Debug\zadacha1LinkedList.pdb
+C:\Users\HOME\source\repos\zadacha1LinkedList\zadacha1LinkedList\obj\Debug\zadacha1LinkedList.csproj.AssemblyReference.cache
+C:\Users\HOME\source\repos\zadacha1LinkedList\zadacha1LinkedList\obj\Debug\zadacha1LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\zadacha1LinkedList\zadacha1LinkedList\obj\Debug\zadacha1LinkedList.exe
+C:\Users\HOME\source\repos\zadacha1LinkedList\zadacha1LinkedList\obj\Debug\zadacha1LinkedList.pdb
